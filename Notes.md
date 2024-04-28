@@ -26,7 +26,7 @@ How to go forward with this:
 * The desing shoulkd be simple, one simple click should lead them to exactly where it is
 
 #### Wire framing
-
+```
           +-------------+
           | Main Page   |
           +-------------+
@@ -37,9 +37,10 @@ How to go forward with this:
              /          \
             /            \
    +----------------+   +-------------------+
-   | Timeline       |   | Interactive      |
+   | Timeline       |   | Interactive       |
    |                |   | Display           |
    +----------------+   +-------------------+
+```
 
 #### Design System 
 
