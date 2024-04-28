@@ -67,6 +67,18 @@ Let's start with the visual design of the application:
  * Feedback 
 
 
+#### Database
+We will be utilizing psotgressql to hold a database of all endagnered species, there is currently a dataset of endangered species which should hold infromation that can be extracted that will allow us to create tables and schema for us to construct it. 
+
+* SPECIES TABLE
+  1. ID
+  2. NAME
+  3. TYPE
+  4. HABITAT
+  5. LIFECYCLE
+  6. FOOD 
+
+
 
 
 
