@@ -1,3 +1,10 @@
+# process
+   1. creation of idea - co pleted 4/28/2024
+   2. Visual Design of application
+   3. Database / data
+   4. Creation of project
+
+
 # 4/28/2024
 
 Today we will be focusing on making the base idea of the project and having the necessary tools. First, let's look at our current hobbies:
@@ -68,16 +75,17 @@ Let's start with the visual design of the application:
 
 
 #### Database
-We will be utilizing psotgressql to hold a database of all endagnered species, there is currently a dataset of endangered species which should hold infromation that can be extracted that will allow us to create tables and schema for us to construct it. 
+#### Database
+We will be utilizing PostgreSQL to hold a database of all endangered species, there is currently a dataset of endangered species that should hold information that can be extracted that will allow us to create tables and schema for us to construct it. 
 
 * SPECIES TABLE
-  1. ID
-  2. NAME
-  3. TYPE
-  4. HABITAT
-  5. LIFECYCLE
-  6. FOOD 
-
+ 1. ID
+ 2. NAME
+ 3. TYPE
+ 4. HABITAT
+ 5. LIFECYCLE
+ 6. FOOD 
+   
 
 
 
