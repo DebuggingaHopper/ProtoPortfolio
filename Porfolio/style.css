@@ -1,5 +1,16 @@
 /* 
 This is where we set the font for the webpage
+
+
+ pixels are absolute units. They won't change when you resize the window. n
+ otice that the font size of 50px doesn't change when we resize the window.
+
+ 1 REM = 16px. 
+
+ The full form of VW is viewport width. It works like the percentage unit. Specifying 10vw is equivalent to occupying 10% of entire visible screen width.
+
+
+ So VH is equiavelnt to occupying of the ente visible screen height,
 */
 @import url('https://fonts.googleapis.com/css2?family=Jersey+25&family=Quicksand:wght@300..700&display=swap" rel="stylesheet');
 
