@@ -19,7 +19,7 @@ This is how I wanted to cosntruct this webpage initially
 
 A very simple webpage that displays who I am with a simple dashboard and cards.  Below is the final result of the project which I titled ProtoPortfolio:
 ![First_part](image.png)
-![alt text](image-2.png)
+![Second_Part](image-2.png)
 
 ## Next steps
 
